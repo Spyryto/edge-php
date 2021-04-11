@@ -13,7 +13,7 @@
     "psr-4": {
       "Edge\\": "src/Edge"
     },
-    "files": ["src/globals.php", "src/utility.php"]
+    "files": ["src/globals/helpers.php", "src/globals/Edge/HTML/elements.php"]
   },
   "minimum-stability": "dev"
 }
